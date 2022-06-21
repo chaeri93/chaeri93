@@ -33,7 +33,7 @@
 <br>
 <div align="center" style="text-align:center">
 
-  [![Chaeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeri93)](https://github.com/anuraghazra/github-readme-stats)
+  [![Chaeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeri93&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align="center" style="text-align:center">
   
