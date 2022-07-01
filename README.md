@@ -19,8 +19,9 @@
   
 </p>
 
-<br>
 
+<!--
+<br>
 <h3 align="center">🪄 Blog 🪄</h3>
 
 <div align="center" style="text-align:center">
@@ -31,6 +32,8 @@
 </div>
 
 <br>
+-->
+
 <div align="center" style="text-align:center">
 
   [![Chaeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeri93&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
