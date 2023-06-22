@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChaeriKim&fontSize=70&animation=twinkling)
 
+|	Date |	Contents|	
+|--|---|
+|2020.03 ~ 현재|	소프트웨어학부 컴퓨터공학과	| 
+|2021.09 ~ 2022.02|	신촌연합 IT 창업동아리 CEOS 14기 백엔드|
+|2021.12 ~ 2022.02| 채팅형 메모어플리케이션 챗마인더 백엔드 개발자|
+|2022.03 ~ 2022.08|	신촌연합 IT 창업동아리 CEOS 15기 백엔드 운영진|
+|2022.03 ~ 2022.06|	나인와트 백엔드 인턴|
+|2022.07 ~ 2022.08| 나의 감정을 알아주는 다이어리 어플리케이션 심다 백엔드 개발자|
+|2022.09 ~ 2023.02|	JGU 교환 학생	 |
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
