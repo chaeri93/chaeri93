@@ -9,6 +9,9 @@
 |2022.03 ~ 2022.06|	나인와트 백엔드 인턴|
 |2022.07 ~ 2022.08| 나의 감정을 알아주는 다이어리 어플리케이션 심다 백엔드 개발자|
 |2022.09 ~ 2023.02|	JGU 교환 학생	 |
+|2023.03 ~ 2023.08|	UMC IT 연합 사이드프로젝트 동아리 4기 서버	 |
+|2023.07 ~ 2023.08|	Metric Studio 백엔드 인턴	 |
+|2023.07 ~ 2023.08|	뉴스 읽는 루틴을 만들어주는 뉴틴 백엔드 개발자	 |
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -44,10 +47,7 @@
 <br>
 -->
 
-<div align="center" style="text-align:center">
 
-  [![Chaeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeri93&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <div align="center" style="text-align:center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeri93&layout=compact)](https://github.com/chaeri93/github-readme-stats)
