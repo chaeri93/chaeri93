@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
@@ -34,19 +35,22 @@
 </p>
 
 
-<!--
 <br>
+<h3 align="center">📃 Certification 📃</h3>
+<p align="center">
+  <a href="https://www.credly.com/badges/cb8638dd-ec89-4836-9f56-b0c6055ddec4/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
+</p>
+
+
 <h3 align="center">🪄 Blog 🪄</h3>
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaeri93&tag=SMTP)](https://velog.io/@chaeri93)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaeri93)](https://velog.io/@chaeri93)
 
 </div>
 
 <br>
--->
 
 
 <div align="center" style="text-align:center">
@@ -66,7 +70,6 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaeri93&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
-
 
 
 <!-- Here are some ideas to get you started:
