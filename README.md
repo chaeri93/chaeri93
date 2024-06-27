@@ -14,6 +14,20 @@
 |2023.07 ~ 2023.08|	뉴스 읽는 루틴을 만들어주는 뉴틴 백엔드 개발자	 |
 |2024.03 ~ |	AWS Cloud Club Ewha 2nd	Member |
 
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choco2010)](https://solved.ac/choco2010/)
+
+<br>
+
+<h3 align="center"> 🧸 Me 🧸 </h3>
+<p align="center">
+  <a href="https://velog.io/@chaeri93"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chaeri93"/></a>&nbsp
+  <a href="https://hypnotic-domain-9a6.notion.site/ec095268ef1d45af924b0b3497e4ccc7?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hypnotic-domain-9a6.notion.site/ec095268ef1d45af924b0b3497e4ccc7?pvs=4"/></a>&nbsp
+  <a href="mailto:chaeri9813@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chaeri9813@gmail.com"/></a>
+</p>
+<br>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -59,13 +73,7 @@
 
 </div>
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
-<p align="center">
-  <a href="https://velog.io/@chaeri93"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chaeri93"/></a>&nbsp
-  <a href="https://www.instagram.com/chaeri93/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chaeri93/"/></a>&nbsp
-  <a href="mailto:chaeri9813@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chaeri9813@gmail.com"/></a>
-</p>
-<br>
+
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaeri93&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
