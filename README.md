@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChaeriKim&fontSize=70&animation=twinkling)
 
-|	Date |	Contents|	
+<!--|	Date |	Contents|	
 |--|---|
 |2020.03 ~ 현재|	소프트웨어학부 컴퓨터공학과	| 
 |2021.09 ~ 2022.02|	신촌연합 IT 창업동아리 CEOS 14기 백엔드|
@@ -17,13 +17,13 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choco2010)](https://solved.ac/choco2010/)
-
+-->
 <br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://velog.io/@chaeri93"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chaeri93"/></a>&nbsp
-  <a href="https://hypnotic-domain-9a6.notion.site/ec095268ef1d45af924b0b3497e4ccc7?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hypnotic-domain-9a6.notion.site/ec095268ef1d45af924b0b3497e4ccc7?pvs=4"/></a>&nbsp
+  <!--<a href="https://hypnotic-domain-9a6.notion.site/ec095268ef1d45af924b0b3497e4ccc7?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hypnotic-domain-9a6.notion.site/ec095268ef1d45af924b0b3497e4ccc7?pvs=4"/></a>&nbsp -->
   <a href="mailto:chaeri9813@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chaeri9813@gmail.com"/></a>
 </p>
 <br>
